@@ -51,7 +51,7 @@
  <a href="https://www.linkedin.com/in/josephmaged/" target="blank">
   <img align="center" alt="Pramod's LinkedIn" width="30px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" /> &nbsp; &nbsp;
  </a>
- <a href="josephmaged.cf" target="blank">
+ <a href="https://josephmaged.cf" target="blank">
   <img align="center" alt="Pramod's LinkedIn" width="30px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" /> &nbsp; &nbsp;
  </a>
  
