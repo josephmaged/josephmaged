@@ -1,6 +1,6 @@
 ## Hi I'm Joe :fox_face:
 
-<!-- ![Gaboso](https://github.com/Gaboso/Gaboso/blob/master/github_cover.png "Gaboso") -->
+![Joseph](https://github.com/josephmaged/josephmaged/blob/main/github_cover.png "Joseph")
 
 :computer: <em> I am a Flutter Developer Living in Egypt 🇪🇬 </em>
 
