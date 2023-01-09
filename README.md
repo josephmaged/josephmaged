@@ -48,8 +48,8 @@
 
 ## 📊 GitHub Stats
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=josephmaged&&show_icons=true&theme=radical" alt="Pramod's Github Stats"> &nbsp;
-<img  src="https://github-readme-stats.vercel.app/api/top-langs?username=josephmaged&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true" alt="josephmaged" />
+<img src="https://github-readme-stats.vercel.app/api?username=josephmaged&&show_icons=true&theme=radical" alt="Pramod's Github Stats">
+<!-- <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=josephmaged&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true" alt="josephmaged" /> -->
 </div> 
 
 ## 🏆 GitHub Profile Trophies
