@@ -49,6 +49,7 @@
 ## 📊 GitHub Stats
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=josephmaged&&show_icons=true&theme=radical" alt="Pramod's Github Stats">
+	<br/>
 <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=josephmaged&layout=compact" alt="josephmaged" /> 
 </div> 
 
