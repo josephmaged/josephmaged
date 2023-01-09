@@ -6,6 +6,10 @@
 
 <img align="right" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif"/>
 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=josephmaged&label=Profile%20views&color=004080&style=flat" alt="josephmaged" height="40" width="240" />
+	           <img src="https://img.shields.io/github/followers/josephmaged?label=Followers&color=800000&style=flat" alt="josephmaged" height="40" width="160" />
+</p>
+
 ## My Tech Stack
 
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
@@ -42,9 +46,15 @@
 
 <br/>
 
+## 📊 GitHub Stats
 <div align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=josephmaged&&show_icons=true&theme=radical" alt="Pramod's Github Stats">
+<img src="https://github-readme-stats.vercel.app/api?username=josephmaged&&show_icons=true&theme=radical" alt="Pramod's Github Stats"> &nbsp;
+<img  src="https://github-readme-stats.vercel.app/api/top-langs?username=josephmaged&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true" alt="josephmaged" />
 </div> 
+
+## 🏆 GitHub Profile Trophies
+<p align="center">
+ <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=josephmaged&theme=algolia" alt="josephmaged" /></a> </p>
   
 <div align="center">
 <h3 align="center">Connect with me<img align="center" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="33px" /></h3> 
