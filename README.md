@@ -85,7 +85,7 @@
 <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=josephmaged&layout=compact&theme=radical" alt="josephmaged" /> 
 </div> 
 
-## <img src="https://github.com/josephmaged/josephmaged/blob/main/assets/trophy_copy.gif" width="35"><b> GitHub Profile Trophies </b>
+## <img src="https://github.com/josephmaged/josephmaged/blob/main/assets/trophy.gif" width="35"><b> GitHub Profile Trophies </b>
 <p align="center">
  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=josephmaged&theme=algolia" alt="josephmaged" /></a> </p>
   
