@@ -60,6 +60,8 @@
 <p>
 <img src="https://user-images.githubusercontent.com/25181517/183912952-83784e94-629d-4c34-a961-ae2ae795b662.png" alt="Jira" height="60" />
 <img src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png" alt="Postman" height="60" />
+<img src="https://user-images.githubusercontent.com/25181517/189715289-df3ee512-6eca-463f-a0f4-c10d94a06b2f.png" alt="Figma" height="60" />
+<img src="https://user-images.githubusercontent.com/25181517/189716058-71f74b6f-5936-40b5-92e3-00381e35ccb9.png" alt="MaterialDesign" height="60" />
 </p>
 
 <br/>
@@ -78,7 +80,7 @@
 <div align="center">
 <h3 align="center">Connect with me<img align="center" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="33px" /></h3> 
  <a href="https://www.linkedin.com/in/josephmaged/" target="blank">
-  <img align="center" alt="Pramod's LinkedIn" width="30px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" /> &nbsp; &nbsp;
+  <img align="center" alt="Pramod's LinkedIn" width="30px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" /> &nbsp; &nbsp;
  </a>
  <a href="https://josephmaged.cf" target="blank">
   <img align="center" alt="Pramod's LinkedIn" width="30px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" /> &nbsp; &nbsp;
