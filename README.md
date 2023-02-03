@@ -1,4 +1,4 @@
-## Hi I'm Joe :fox_face:
+## Hi I'm Joe <img src="https://github.com/josephmaged/josephmaged/blob/main/assets/fox.png" height="30">
 
 ![Joseph](https://github.com/josephmaged/josephmaged/blob/main/github_cover.png "Joseph")
 
