@@ -93,7 +93,7 @@
 <h3 align="center">Connect with me<img align="center" src="https://github.com/josephmaged/josephmaged/blob/main/assets/Handshake.gif" height="33px" /></h3> 
  
 <a href="https://www.linkedin.com/in/josephmaged/">
-  <img align="center" alt="LinkedIn" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" /> &nbsp; &nbsp;
+  <img align="center" alt="LinkedIn" width="40" src="https://github.com/josephmaged/josephmaged/blob/main/assets/linkedin.png" /> &nbsp; &nbsp;
 </a>
 <a href="https://josephmaged.cf">
   <img align="center" alt="WebSite" width="40" src="https://github.com/josephmaged/josephmaged/blob/main/assets/website.png" /> &nbsp; &nbsp;
