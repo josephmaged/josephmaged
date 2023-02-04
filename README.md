@@ -2,7 +2,7 @@
 
 ![Joseph](https://github.com/josephmaged/josephmaged/blob/main/github_cover.png "Joseph")
 
-<picture><img src = "https://github.com/josephmaged/josephmaged/blob/main/assets/aboutme.gif" width = 50px></picture> <em> I am a Flutter Developer Living in Egypt 🇪🇬 </em>
+<img src = "https://github.com/josephmaged/josephmaged/blob/main/assets/aboutme.gif" width = 50px> <em> I am a Flutter Developer Living in Egypt 🇪🇬 </em>
 
 <img align="right" src="https://github.com/josephmaged/josephmaged/blob/main/assets/Developer.gif"/>
 
