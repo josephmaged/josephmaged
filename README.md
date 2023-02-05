@@ -98,7 +98,14 @@
 <a href="https://josephmaged.cf">
   <img align="center" alt="WebSite" width="40" src="https://github.com/josephmaged/josephmaged/blob/main/assets/website.png" /> &nbsp; &nbsp;
 </a>
- 
+
+<br/>
+<h3 align="center">Hire Me<img align="center" src="https://github.com/josephmaged/josephmaged/blob/main/assets/Handshake.gif" height="33px" /></h3> 
+
+<a href="https://www.peopleperhour.com/hourlie/build-simple-mobile-application/887607">
+  <img align="center" alt="PeoplePerHour" height="40" src="https://github.com/josephmaged/josephmaged/blob/main/assets/PeoplePerHour.png" />
+</a>
+	
 <br/>
   <br/>
 Thanks for stopping by 😁
